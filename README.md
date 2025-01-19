@@ -8,28 +8,12 @@
 <h2>:scroll: Certifications:</h2>
 
 - <b>CompTIA</b>
-  - [CySA+](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CySA+](https://www.credly.com/badges/f8e2ee86-70e8-4d5f-ba85-c2a78e4628f7/public_url)
  - <b>ITIL</b>
-  - [CySA+](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Foundation Certificate in IT Service Management](https://imgur.com/a/UqcOwdM)
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/kschmetzer
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
